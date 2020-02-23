@@ -1,0 +1,21 @@
+{
+  "id" : "83ea55ec-2b16-4318-9fbe-b53b27e3341c",
+  "name" : "api_v1_students",
+  "request" : {
+    "url" : "/api/v1/students",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "[{\"id\":99,\"name\":\"S\",\"age\":11,\"height\":123.33,\"weight\":40.22},{\"id\":100,\"name\":\"E\",\"age\":10,\"height\":123.33,\"weight\":35.11}]",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "Date" : "Sun, 05 Jan 2020 00:18:56 GMT",
+      "Keep-Alive" : "timeout=60",
+      "Connection" : "keep-alive"
+    }
+  },
+  "uuid" : "83ea55ec-2b16-4318-9fbe-b53b27e3341c",
+  "persistent" : true,
+  "insertionIndex" : 3
+}
